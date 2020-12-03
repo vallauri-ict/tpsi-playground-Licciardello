@@ -1,12 +1,12 @@
 # Repository di Antonio Licciardello
 ### Elenco esercizi:
-1. Ajax banca
-2. NodeJs Intro
-3. NodeJs Timer
-4. NodeJs html
-5. my app: Angular Getting Started
-6. NodeJs Moduli
-7. Web Server
-8. Dispatcher
-9. ServerPHP
+01. Ajax banca
+02. NodeJs Intro
+03. NodeJs Timer
+04. NodeJs html
+05. my app: Angular Getting Started
+06. NodeJs Moduli
+07. Web Server
+08. Dispatcher
+09. ServerPHP
 10.ServerPHPOttimizzato
