@@ -1,6 +1,6 @@
 # Repository di Antonio Licciardello
 ### Elenco esercizi:
-01. Ajax banca
+
 02. NodeJs Intro
 03. NodeJs Timer
 04. NodeJs html
